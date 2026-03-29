@@ -1,5 +1,5 @@
 resource "azurerm_resource_group1" "rg" {
-  name     = var.resource_group_name
+  name     = var.resource_group_name Aditya
   location = var.location
 }
 
